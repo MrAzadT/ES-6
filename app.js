@@ -10,6 +10,11 @@
 // const name = "Hero";
 // const greetings = "Welcome Home!" + " " + name;
 
-const cars = ["toyota", "honda", "mercedes"];
-const newCars = [...cars, "ferrari"];
-console.log(newCars);
+// const cars = ["toyota", "honda", "mercedes"];
+// const newCars = [...cars, "ferrari"];
+// console.log(newCars);
+
+const azad = (num1, num2) => {
+  return num1 + num2;
+};
+console.log(azad(12, 2));
