@@ -14,7 +14,15 @@
 // const newCars = [...cars, "ferrari"];
 // console.log(newCars);
 
-const azad = (num1, num2) => {
+const azad1 = (num1, num2) => {
   return num1 + num2;
 };
-console.log(azad(12, 2));
+console.log(azad1(12, 2));
+const azad2 = (num1, num2) => {
+  return num1 + num2;
+};
+console.log(azad2(12, 2));
+const azad3 = (num1, num2) => {
+  return num1 + num2;
+};
+console.log(azad3(12, 2));
