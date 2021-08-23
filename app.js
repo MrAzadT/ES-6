@@ -7,5 +7,9 @@
 // const x = y(5);
 // console.log(x);
 
-const name = "Hero";
-const greetings = "Welcome Home!" + " " + name;
+// const name = "Hero";
+// const greetings = "Welcome Home!" + " " + name;
+
+const cars = ["toyota", "honda", "mercedes"];
+const newCars = [...cars, "ferrari"];
+console.log(newCars);
