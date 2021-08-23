@@ -1,4 +1,11 @@
-function getSum(a, b = 9) {
-  return a + b;
-}
-console.log(getSum(2, 7));
+// function getSum(a, b = 9) {
+//   return a + b;
+// }
+// console.log(getSum(2, 7));
+
+// const y = (x) => x * x;
+// const x = y(5);
+// console.log(x);
+
+const name = "Hero";
+const greetings = "Welcome Home!" + " " + name;
