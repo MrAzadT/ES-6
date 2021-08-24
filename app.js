@@ -30,7 +30,3 @@ const azad3 = (num1, num2) => {
   return num1 + num2;
 };
 console.log(azad3(12, 2));
-const azad3 = (num1, num2) => {
-  return num1 + num2;
-};
-console.log(azad3(12, 2));
