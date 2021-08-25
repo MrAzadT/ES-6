@@ -59,6 +59,7 @@
 // let text = `Welcome ${firstName}, ${lastName}!`;
 // console.log(text);
 
-const azad = () => {
-  return;
+const azad = (p, q) => {
+  return p * q;
 };
+console.log(azad(2, 4));
