@@ -30,8 +30,11 @@
 
 // const friends = ["azad", " abid", "tamal"];
 
-function min(nums) {
-  return Math.min(nums);
-}
+// function min(nums) {
+//   return Math.min(nums);
+// }
 
-console.log(min([1, 3, 2]));
+// console.log(min([1, 3, 2]));
+
+const cube = (x) => x * x * x;
+console.log(cube(2));
