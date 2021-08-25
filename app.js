@@ -45,6 +45,11 @@
 // const { x, y, z } = { x: 1, y1: 2, z: 3 };
 // console.log(y);
 
-const nums = [1, 2, 3, 4, 5];
-let output = nums.filter((n) => n % 2);
-console.log(output);
+// const nums = [1, 2, 3, 4, 5];
+// let output = nums.filter((n) => n % 2);
+// console.log(output);
+
+// const friends = ["Moushumi", "Misha", "Manna", "mimi", "mahiya"];
+
+
+const  product = {name: "Laptop", model:"Yoga" 3’, price:49000, dusk: "512SSD"}
