@@ -67,6 +67,6 @@
 const azadT = (p, q, w) => {
   return p + q + w;
 };
-const tamal = [2, 3, 4];
+const tamal = [2, 3, 8];
 
 console.log(azadT(...tamal));
