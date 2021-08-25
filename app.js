@@ -51,10 +51,14 @@
 
 // const friends = ["Moushumi", "Misha", "Manna", "mimi", "mahiya"];
 
-const product = { name: "Laptop", model: "Yoga", price: 49000, dusk: "512SSD" };
+// const product = { name: "Laptop", model: "Yoga", price: 49000, dusk: "512SSD" };
 
-let firstName = "John";
-let lastName = "Doe";
+// let firstName = "John";
+// let lastName = "Doe";
 
-let text = `Welcome ${firstName}, ${lastName}!`;
-console.log(text);
+// let text = `Welcome ${firstName}, ${lastName}!`;
+// console.log(text);
+
+const azad = () => {
+  return;
+};
