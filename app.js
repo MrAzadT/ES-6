@@ -76,10 +76,16 @@
 // p = "React";
 // console.log(q);
 
-const isTrue = "false";
+// const isTrue = "false";
 
-if (!isTrue) {
-  console.log("hello");
-} else {
-  console.log("world");
+// if (!isTrue) {
+//   console.log("hello");
+// } else {
+//   console.log("world");
+// }
+
+function sum(p, q) {
+  console.log(p + q);
 }
+
+const result = sum(2, 3);
