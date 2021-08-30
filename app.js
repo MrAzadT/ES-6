@@ -103,3 +103,12 @@
 //   }
 
 //   console.log(work(32);
+
+const kala = {
+  name: "saif",
+  job: "web dev",
+  study: "cse",
+  age: 25,
+};
+const kalakala = Object.entries(kala);
+console.log(kalakala);
