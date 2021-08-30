@@ -64,9 +64,14 @@
 // };
 // console.log(azad(2, 4));
 // ---------------
-const azadT = (p, q, w) => {
-  return p + q + w;
-};
-const tamal = [2, 3, 8];
+// const azadT = (p, q, w) => {
+//   return p + q + w;
+// };
+// const tamal = [2, 3, 8];
 
-console.log(azadT(...tamal));
+// console.log(azadT(...tamal));
+
+let p = "JavaScript";
+let q = p;
+p = "React";
+console.log(q);
