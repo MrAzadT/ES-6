@@ -112,9 +112,12 @@ const kala = {
   kam: "akam",
   location: "dhaka",
 };
-const kala2 = Object.entries(kala);
-const kala1 = Object.keys(kala);
-const kala3 = Object.values(kala);
-console.log(kala1);
-console.log(kala2);
-console.log(kala3);
+// const kala2 = Object.entries(kala);
+// const kala1 = Object.keys(kala);
+// const kala3 = Object.values(kala);
+// const kala4 = Object.values(kala);
+delete kala.kam;
+console.log(kala);
+// console.log(kala1);
+// console.log(kala2);
+// console.log(kala3);
