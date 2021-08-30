@@ -109,6 +109,7 @@ const kala = {
   job: "web dev",
   study: "cse",
   age: 25,
+  kam: "akam",
 };
 const kala2 = Object.entries(kala);
 const kala1 = Object.keys(kala);
