@@ -110,6 +110,7 @@ const kala = {
   study: "cse",
   age: 25,
   kam: "akam",
+  location: "dhaka",
 };
 const kala2 = Object.entries(kala);
 const kala1 = Object.keys(kala);
