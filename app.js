@@ -108,4 +108,4 @@ function sum(p, q) {
   console.log(p + q);
 }
 
-const result = sum(2, 3);
+const result = sum(323, 74);
