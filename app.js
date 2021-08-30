@@ -112,6 +112,7 @@ const kala = {
   kam: "akam",
   location: "dhaka",
 };
+Object.freeze(kala);
 // const kala2 = Object.entries(kala);
 // const kala1 = Object.keys(kala);
 // const kala3 = Object.values(kala);
