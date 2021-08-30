@@ -110,5 +110,9 @@ const kala = {
   study: "cse",
   age: 25,
 };
-const kalakala = Object.entries(kala);
-console.log(kalakala);
+const kala2 = Object.entries(kala);
+const kala1 = Object.keys(kala);
+const kala3 = Object.values(kala);
+console.log(kala1);
+console.log(kala2);
+console.log(kala3);
