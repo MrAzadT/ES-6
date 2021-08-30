@@ -84,8 +84,14 @@
 //   console.log("world");
 // }
 
-function sum(p, q) {
-  console.log(p + q);
-}
+// function sum(p, q) {
+//   console.log(p + q);
+// }
 
-const result = sum(2, 3);
+// const result = sum(2, 3);
+
+if ("2" === 2) {
+  console.log("Inside if");
+} else {
+  console.log("Inside else");
+}
