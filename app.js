@@ -90,8 +90,22 @@
 
 // const result = sum(2, 3);
 
-if ("2" === 2) {
-  console.log("Inside if");
-} else {
-  console.log("Inside else");
+// if ("2" === 2) {
+//   console.log("Inside if");
+// } else {
+//   console.log("Inside else");
+// }
+
+// function work(x, y = 4){
+
+//   return x + y;
+
+//   }
+
+//   console.log(work(32);
+
+function sum(p, q) {
+  console.log(p + q);
 }
+
+const result = sum(2, 3);
