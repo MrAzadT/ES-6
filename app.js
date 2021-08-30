@@ -71,7 +71,15 @@
 
 // console.log(azadT(...tamal));
 
-let p = "JavaScript";
-let q = p;
-p = "React";
-console.log(q);
+// let p = "JavaScript";
+// let q = p;
+// p = "React";
+// console.log(q);
+
+const isTrue = "false";
+
+if (!isTrue) {
+  console.log("hello");
+} else {
+  console.log("world");
+}
