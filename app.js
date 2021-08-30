@@ -103,9 +103,3 @@
 //   }
 
 //   console.log(work(32);
-
-function sum(p, q) {
-  console.log(p + q);
-}
-
-const result = sum(323, 74);
