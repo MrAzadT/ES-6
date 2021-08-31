@@ -20,6 +20,11 @@ const azad = {
   badjaiboi: function () {
     return this.skils;
   },
+  address: {
+    home: "gazi bari",
+    village: "nandopara",
+    dis: "barishal",
+  },
 };
 const tamal = azad.badjaiboi();
 console.log(tamal);
