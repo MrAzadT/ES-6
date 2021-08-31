@@ -24,6 +24,7 @@ const azad = {
     home: "gazi bari",
     village: "nandopara",
     dis: "barishal",
+    CAddress: "Dhaka",
   },
 };
 const tamal = azad.badjaiboi();
