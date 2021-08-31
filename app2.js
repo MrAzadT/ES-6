@@ -36,3 +36,8 @@
 
 const azad = () => 89;
 console.log(azad());
+
+const tamal = (e) => {
+  return e * 2;
+};
+console.log(tamal(2));
