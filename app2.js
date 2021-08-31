@@ -34,10 +34,17 @@
 // const azadt = `name : ${azad.name} , address : ${azad.address.home} , game:${azad.myArray[1]}`;
 // console.log(azadt);
 
-const azad = () => 89;
-console.log(azad());
+// const azad = () => 89;
+// console.log(azad());
 
-const tamal = (e) => {
-  return e * 2;
+// const tamal = (e) => {
+//   return e * 2;
+// };
+// console.log(tamal(2));
+
+const tamal = (e, v) => {
+  let w = e + v;
+  let q = w / 7;
+  return q;
 };
-console.log(tamal(2));
+console.log(tamal(10, 4));
