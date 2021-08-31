@@ -14,7 +14,7 @@
 const azad = {
   name: "Azad Tamal",
   education: "Honours",
-  myArray:[ "pubg","coc","pwi"]
+  myArray: ["pubg", "coc", "pwi"],
   roll: 8,
   skils: "wev dev",
   taka: 5000,
@@ -29,6 +29,7 @@ const azad = {
   },
 };
 const tamal = azad.badjaiboi();
-console.log(tamal);
+// console.log(tamal);
 
-const azadt=`name = ${azad.name} , address = ${azad.address} , `
+const azadt = `name : ${azad.name} , address : ${azad.address.home} , game:${azad.myArray[1]}`;
+console.log(azadt);
