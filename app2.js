@@ -18,7 +18,7 @@ const azad = {
   skils: "wev dev",
   taka: 5000,
   badjaiboi: function () {
-    return this.name;
+    return this.skils;
   },
 };
 const tamal = azad.badjaiboi();
