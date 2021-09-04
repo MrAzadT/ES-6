@@ -5,6 +5,7 @@ const obj = {
   skill: {
     a: "java",
     b: "react",
+    c: "c+",
   },
 };
 const {
