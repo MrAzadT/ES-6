@@ -6,7 +6,7 @@ const getTime = () => {
   let time = new Date();
   document.getElementById("time").innerHTML = time;
 };
-setInterval(getTime, 100);
+setInterval(getTime, 2000);
 
 // ----------
 // setInterval(function () {
