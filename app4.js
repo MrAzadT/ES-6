@@ -18,13 +18,14 @@
 //   alert(userInput);
 // }
 
-let sign = prompt("What's your sign?");
+// let sign = prompt("What's your sign?");
 
-if (sign.toLowerCase() == "scorpio") {
-  alert("Wow! I'm a Scorpio too!");
-}
+// if (sign.toLowerCase() == "scorpio") {
+//   alert("Wow! I'm a Scorpio too!");
+// }
 
 // sign = window.prompt();
 // sign = prompt();
 // sign = window.prompt("Are you feeling lucky");
-// sign = window.prompt("Are you feeling lucky", "sure");
+sign = window.prompt("Are you feeling lucky", "sure");
+confirm();
