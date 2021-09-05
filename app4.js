@@ -7,6 +7,6 @@
 //   document.getElementById("time").innerHTML = time;
 // };
 // setInterval(getTime, 100);
-setInterval(function () {
-  alert("Hello");
-}, 3000);
+// setInterval(function () {
+//   alert("Hello");
+// }, 1000);
