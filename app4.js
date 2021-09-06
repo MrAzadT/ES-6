@@ -30,13 +30,20 @@
 // sign = window.prompt("Are you feeling lucky", "sure");
 // confirm();
 
+// -------------------------------
+// console.log(num);
+// const sum = (num) => {
+//   console.log(num);
+//   let num1 = num + 200;
+//   console.log(num1);
+//   return num1;
+// };
+// alert(sum());
+
+// console.log(sum());
 const num = prompt("input a Number");
-console.log(num);
-const sum = (num) => {
-  console.log(num);
-  let num1 = num + 200;
-  console.log(num1);
-  return num1;
-};
-alert(sum());
-console.log(sum());
+if (num > 0) {
+  alert(parseFloat(num) + 200);
+} else {
+  alert("input a number");
+}
