@@ -40,8 +40,12 @@
 // }
 
 // ------
-const q = confirm("you wand herf?");
-if (q) {
-  alert("https://github.com/MrAzadT");
-}
+// const q = confirm("you wand herf?");
+// if (q) {
+//   alert("https://github.com/MrAzadT");
+// }
 // =============
+
+let mySet = new set();
+mySet.add(5);
+console.log(mySet);
