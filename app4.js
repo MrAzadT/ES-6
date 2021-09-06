@@ -31,19 +31,16 @@
 // confirm();
 
 // -------------------------------
-// console.log(num);
-// const sum = (num) => {
-//   console.log(num);
-//   let num1 = num + 200;
-//   console.log(num1);
-//   return num1;
-// };
-// alert(sum());
 
-// console.log(sum());
-const num = prompt("input a Number");
-if (num > 0) {
-  alert(parseFloat(num) + 200);
-} else {
-  alert("input a number");
+// const num = prompt("input a Number");
+// if (num > 0) {
+//   alert(parseFloat(num) + 200);
+// } else {
+//   alert("input a number");
+// }
+
+// ------
+const q = confirm("you wand herf?");
+if (q) {
+  alert("https://github.com/MrAzadT");
 }
