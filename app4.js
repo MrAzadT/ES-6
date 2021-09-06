@@ -27,5 +27,16 @@
 // sign = window.prompt();
 // sign = prompt();
 // sign = window.prompt("Are you feeling lucky");
-sign = window.prompt("Are you feeling lucky", "sure");
-confirm();
+// sign = window.prompt("Are you feeling lucky", "sure");
+// confirm();
+
+const num = prompt("input a Number");
+console.log(num);
+const sum = (num) => {
+  console.log(num);
+  let num1 = num + 200;
+  console.log(num1);
+  return num1;
+};
+alert(sum());
+console.log(sum());
