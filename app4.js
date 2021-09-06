@@ -51,6 +51,8 @@ let mySet = new Set();
 mySet.add(1); // Set [ 1 ]
 mySet.add(5); // Set [ 1, 5 ]
 mySet.add(5); // Set [ 1, 5 ]
+mySet.add(535); // Set [ 1, 5 ]
+mySet.add(10); // Set [ 1, 5 ]
 mySet.add("some text"); // Set [ 1, 5, 'some text' ]
 let o = { a: 1, b: 2 };
 mySet.add(o);
