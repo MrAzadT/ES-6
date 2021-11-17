@@ -60,17 +60,11 @@
 // const keys = Object.keys(savedCart);
 // console.log(keys);
 
-
-function compare(){
-    var a =  1 ;
-    char b=1;
-  if (a.toString()===b)
-    return true
-  else  
-    return  false
-}
-
-
-
-
-
+// function compare(){
+//     var a =  1 ;
+//     char b=1;
+//   if (a.toString()===b)
+//     return true
+//   else
+//     return  false
+// }
