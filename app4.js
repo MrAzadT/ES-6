@@ -46,12 +46,31 @@
 // }
 // =============
 
-let mySet = new Set();
+// let mySet = new Set();
 
-mySet.add(5); // Set [ 1, 5 ]
-mySet.add(535); // Set [ 1, 5 ]
-mySet.add(10); // Set [ 1, 5 ]
-mySet.add("some text"); // Set [ 1, 5, 'some text' ]
-let o = { a: 1, b: 2 };
-mySet.add(o);
-console.log(mySet);
+// mySet.add(5); // Set [ 1, 5 ]
+// mySet.add(535); // Set [ 1, 5 ]
+// mySet.add(10); // Set [ 1, 5 ]
+// mySet.add("some text"); // Set [ 1, 5, 'some text' ]
+// let o = { a: 1, b: 2 };
+// mySet.add(o);
+// console.log(mySet);
+
+// const savedCart = { B1XTJK: 2, GT2XKM: 1, XY2OKHJ: 4 };
+// const keys = Object.keys(savedCart);
+// console.log(keys);
+
+
+function compare(){
+    var a =  1 ;
+    char b=1;
+  if (a.toString()===b)
+    return true
+  else  
+    return  false
+}
+
+
+
+
+
