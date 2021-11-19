@@ -36,7 +36,7 @@
 // if (num > 0) {
 //   alert(parseFloat(num) + 200);
 // } else {
-//   alert("input a number");
+//   alert("input number");
 // }
 
 // ------
